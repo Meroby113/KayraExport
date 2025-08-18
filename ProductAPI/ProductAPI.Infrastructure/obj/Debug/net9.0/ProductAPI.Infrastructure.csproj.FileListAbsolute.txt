@@ -1,0 +1,17 @@
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Infrastructure.deps.json
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Infrastructure.runtimeconfig.json
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Infrastructure.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Infrastructure.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Domain.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\bin\Debug\net9.0\ProductAPI.Domain.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductA.500DF979.Up2Date
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\refint\ProductAPI.Infrastructure.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ref\ProductAPI.Infrastructure.dll

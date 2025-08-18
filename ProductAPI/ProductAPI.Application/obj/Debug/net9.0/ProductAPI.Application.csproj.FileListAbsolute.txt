@@ -1,0 +1,17 @@
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.deps.json
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Application.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Domain.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Infrastructure.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Domain.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\bin\Debug\net9.0\ProductAPI.Infrastructure.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.AssemblyInfo.cs
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductA.93279703.Up2Date
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\refint\ProductAPI.Application.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.pdb
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ref\ProductAPI.Application.dll
