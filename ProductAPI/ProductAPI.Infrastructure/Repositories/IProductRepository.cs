@@ -9,5 +9,6 @@ namespace ProductAPI.Infrastructure.Repositories
         Task AddAsync(Product product);
         Task DeleteAsync(Product product);
         Task SaveChangesAsync();
+        Task UpdateAsync(Product product);
     }
 }

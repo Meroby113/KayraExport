@@ -32,10 +32,15 @@ namespace ProductAPI.Infrastructure.Repositories
         {
             _context.Products.Remove(product);
         }
-        
+
         public async Task SaveChangesAsync()
         {
             await _context.SaveChangesAsync();
+        }
+        
+        public async Task UpdateAsync(Product product)
+        {
+            _context.Products.Update(product);
         }
     }
 }
