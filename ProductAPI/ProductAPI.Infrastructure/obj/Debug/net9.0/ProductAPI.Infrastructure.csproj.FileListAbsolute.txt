@@ -15,3 +15,4 @@ C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructur
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.pdb
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ref\ProductAPI.Infrastructure.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Infrastructure\obj\Debug\net9.0\ProductAPI.Infrastructure.sourcelink.json

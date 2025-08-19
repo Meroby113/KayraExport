@@ -57,7 +57,7 @@ namespace ProductAPI.Application.Services
             await _productRepository.AddAsync(product);
             await _productRepository.SaveChangesAsync();
 
-            
+
             return new ProductDTO
             {
                 Id = product.Id,
@@ -78,6 +78,32 @@ namespace ProductAPI.Application.Services
             await _productRepository.DeleteAsync(product);
             await _productRepository.SaveChangesAsync();
             return true;
+        }
+        
+        public async Task<ProductDTO> UpdateProductAsync(int id, UpdateProductDTO updateProductDto)
+        {
+            var product = await _productRepository.GetByIdAsync(id);
+            if (product == null)
+            {
+                return null;
+            }
+
+            product.Name = updateProductDto.Name;
+            product.Description = updateProductDto.Description;
+            product.Price = updateProductDto.Price;
+            product.Stock = updateProductDto.Stock;
+
+            await _productRepository.UpdateAsync(product);
+            await _productRepository.SaveChangesAsync();
+            
+            return new ProductDTO
+            {
+                Id = product.Id,
+                Name = product.Name,
+                Description = product.Description,
+                Price = product.Price,
+                Stock = product.Stock
+            };
         }
     }
 }

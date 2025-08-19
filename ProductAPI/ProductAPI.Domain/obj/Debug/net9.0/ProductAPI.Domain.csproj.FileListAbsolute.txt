@@ -9,3 +9,4 @@ C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Domain\obj\De
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Domain\obj\Debug\net9.0\refint\ProductAPI.Domain.dll
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.pdb
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Domain\obj\Debug\net9.0\ref\ProductAPI.Domain.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Domain\obj\Debug\net9.0\ProductAPI.Domain.sourcelink.json

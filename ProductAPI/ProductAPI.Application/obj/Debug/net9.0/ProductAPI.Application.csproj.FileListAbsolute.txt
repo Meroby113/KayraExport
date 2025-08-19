@@ -15,3 +15,4 @@ C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\o
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\refint\ProductAPI.Application.dll
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.pdb
 C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ref\ProductAPI.Application.dll
+C:\Users\Meroby\Documents\GitHub\KayraExport\ProductAPI\ProductAPI.Application\obj\Debug\net9.0\ProductAPI.Application.sourcelink.json

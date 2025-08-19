@@ -15,7 +15,7 @@ namespace ProductAPI.API.Controllers
             _productService = productService;
         }
 
-      
+
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -23,7 +23,7 @@ namespace ProductAPI.API.Controllers
             return Ok(products);
         }
 
-       
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
@@ -35,7 +35,7 @@ namespace ProductAPI.API.Controllers
             return Ok(product);
         }
 
-        
+
         [HttpPost]
         public async Task<IActionResult> Add([FromBody] CreateProductDTO newProduct)
         {
@@ -43,7 +43,7 @@ namespace ProductAPI.API.Controllers
             return CreatedAtAction(nameof(GetById), new { id = product.Id }, product);
         }
 
-        
+
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -53,6 +53,17 @@ namespace ProductAPI.API.Controllers
                 return NotFound();
             }
             return NoContent();
+        }
+        
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Update(int id, [FromBody] UpdateProductDTO updateProductDto)
+        {
+            var updatedProduct = await _productService.UpdateProductAsync(id, updateProductDto);
+            if (updatedProduct == null)
+            {
+                return NotFound();
+            }
+            return Ok(updatedProduct);
         }
     }
 }
